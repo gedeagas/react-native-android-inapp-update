@@ -62,7 +62,6 @@ public class AndroidInappUpdatesModule extends ReactContextBaseJavaModule {
     @ReactMethod
     public void checkAppUpdate(int appUpdateType, int clientVersionStalenessDays, final Promise promise){
         checkUpdate(promise,appUpdateType,clientVersionStalenessDays);
-
     }
 
 }
