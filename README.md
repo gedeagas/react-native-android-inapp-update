@@ -2,6 +2,8 @@
 ![npm](https://img.shields.io/npm/v/react-native-android-inapp-updates?style=for-the-badge)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
+### Project is Officially Migrated to @kumparan Github Org.
+See more [https://github.com/kumparan/react-native-android-inapp-update](https://github.com/kumparan/react-native-android-inapp-update).
 
 React Native implementation of the Android In-App Update API. 
 For more information on InApp Updates you can check the official [documentation](https://developer.android.com/guide/app-bundle/in-app-updates). 
